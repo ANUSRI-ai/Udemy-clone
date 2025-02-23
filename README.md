@@ -19,9 +19,11 @@
    Course Cards: Each card represents a course with a title, description, and an image for quick browsing.
    Footer: A footer with useful links for navigation and further exploration of the website.
 
-# Getting Started
+# How To Use
 
     Open the [Link] file in your preferred browser to view the website.
+
+Thank you for visiting my portfolio website
 
 
 
