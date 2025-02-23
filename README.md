@@ -23,7 +23,7 @@
 
     Open the [Link] file in your preferred browser to view the website.
 
-Thank you for visiting my portfolio website
+Thank you for visiting my UdemyClone website
 
 
 
